@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: PhD - Neuroscience
+    i18n: University College London
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I am working at the UCL Institute of Neurology
+    i18n: Queen Square Multiple Sclerosis Centre
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Jun. 2015
+    i18n: Jun. 2015
   job:
     detail: CTO
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Tehran University of Medical Sciences
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: M.D degree
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Apr. 2013
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Student 
+    i18n: 
   icon: fa-plus-square
